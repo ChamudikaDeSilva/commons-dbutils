@@ -35,6 +35,8 @@ import java.util.logging.Logger;
  */
 public final class DbUtils {
 
+    // Student modification for IT5080 CI/CD assignment - MS26932934
+
     /**
      * Simple {@link Driver} proxy class that proxies a JDBC Driver loaded dynamically.
      *
